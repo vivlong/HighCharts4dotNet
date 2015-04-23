@@ -1,5 +1,7 @@
-WinFormChartControlByHighCharts README
+README
 ======================================
+
+# Obsolete! Pls try another entitled 'ECharts4dotNet' https://github.com./vivlong/ECharts4dotNet #
 
 This is a chart control for WinForm by using HighCharts written in C#.
 
